@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "newyork-2010-gray",
+  "version": "2.0.1",
+  "description": "Modified from \"NEWYORK 2010\" by zaffoo (https://addons.mozilla.org/firefox/addon/newyork-2010/). Frame color changed to match the sky. Licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/).",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "my2010-gray@hotoku.local"
+    }
+  },
+  "theme": {
+    "images": {
+      "theme_frame": "newyork2010header.jpg"
+    },
+    "colors": {
+      "frame": "#BABBBF",
+      "tab_background_text": "#030303"
+    }
+  }
+}
